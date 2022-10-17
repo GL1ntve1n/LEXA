@@ -1,0 +1,12 @@
+D:\visualka project\PART2\PART2\bin\Debug\PART2.exe.config
+D:\visualka project\PART2\PART2\bin\Debug\PART2.exe
+D:\visualka project\PART2\PART2\bin\Debug\PART2.pdb
+D:\visualka project\PART2\PART2\obj\Debug\PART2.csproj.AssemblyReference.cache
+D:\visualka project\PART2\PART2\obj\Debug\PART2.csproj.SuggestedBindingRedirects.cache
+D:\visualka project\PART2\PART2\obj\Debug\PART2.Form1.resources
+D:\visualka project\PART2\PART2\obj\Debug\PART2.Properties.Resources.resources
+D:\visualka project\PART2\PART2\obj\Debug\PART2.csproj.GenerateResource.cache
+D:\visualka project\PART2\PART2\obj\Debug\PART2.csproj.CoreCompileInputs.cache
+D:\visualka project\PART2\PART2\obj\Debug\PART2.exe
+D:\visualka project\PART2\PART2\obj\Debug\PART2.pdb
+D:\visualka project\PART2\PART2\obj\Debug\PART2.Form2.resources
